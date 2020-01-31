@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "E:\\xampp\\htdocs\\simantaponline"
+		},
+		{
+			"path": "E:\\xampp\\htdocs\\simantap"
+		},
+		{
+			"path": "E:\\xampp-7\\htdocs\\laundryku"
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.classpath": true,
+			"**/.project": true,
+			"**/.settings": true,
+			"**/.factorypath": true
+		},
+		"explorer.openEditors.visible": 0
+	}
+}
